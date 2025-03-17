@@ -1,6 +1,6 @@
-# Windows HIzlandıran Batch Dosyaları
+# Windows Hızlandıran Batch Dosyaları
 
-**Windows Hizalandıran Batch Dosyaları**, Windows işletim sistemini hızlandırmak için bir dizi otomatikleştirilmiş işlem gerçekleştiren bir batch dosyaları koleksiyonudur. Bu betikler, sistemdeki gereksiz dosyaları temizlemek, performans ayarlarını optimize etmek ve bazı servisleri kapatarak bilgisayarınızın daha verimli çalışmasını sağlar.
+**Windows Hızlandıran Batch Dosyaları**, Windows işletim sistemini hızlandırmak için bir dizi otomatikleştirilmiş işlem gerçekleştiren bir batch dosyaları koleksiyonudur. Bu betikler, sistemdeki gereksiz dosyaları temizlemek, performans ayarlarını optimize etmek ve bazı servisleri kapatarak bilgisayarınızın daha verimli çalışmasını sağlar.
 
 ## Özellikler
 
